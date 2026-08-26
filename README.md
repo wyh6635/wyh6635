@@ -1,4 +1,4 @@
-## Hi there 👋
+## Show me coding and running! 👋
 
 <!--
 **wyh6635/wyh6635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
